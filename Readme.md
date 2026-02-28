@@ -7,11 +7,12 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/ZellExp/RobloxScript/
 ```
  - Auto Typing
  - Click For Typing
+ - GoodGame
 
 
 
 
 
-## Developers
+## Create By
 ### Creator: Zell
 ### Developers: Zell & AI
